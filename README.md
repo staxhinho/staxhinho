@@ -1,8 +1,6 @@
 ### Olá!!! sou o Miguel
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Tou a estudar HTML, CSS e Javascript
-- 😄 Pronomes: ele/dele
+##
 
 <div align="center">
   <a href="https://github.com/staxhinho">
