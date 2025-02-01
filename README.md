@@ -22,6 +22,6 @@
   <a href="https://instagram.com/staxhinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/staxhinho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/staxhinho/staxhinho/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/staxhinho/staxhinho/output/github-contribution-grid-snake.svg" />
  
 </div>
